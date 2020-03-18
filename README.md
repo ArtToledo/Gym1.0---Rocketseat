@@ -1,5 +1,5 @@
-# Gym1.0---Rocketseat
-Criação do novo projeto que consiste em um controle de cadastro de membros e instrutores
+# GymManager1.0 - Curso LaunchBase Rocketseat
+### Criação do novo projeto que consiste em um controle de cadastro de membros e instrutores
 
 -> Linguagens utilizadas: HTML, JavaScript e CSS
 
@@ -26,3 +26,5 @@ Criação do novo projeto que consiste em um controle de cadastro de membros e i
      Salvar dados em arquivo .json para exibir os mesmos de forma dinâmica no site do projeto, etc;
      
      Novos conceitos de CSS.
+
+![Gift do projeto](https://github.com/ArtToledo/Gym1.0---Rocketseat/blob/master/GymManager1.0.gif)
